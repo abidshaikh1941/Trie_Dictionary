@@ -1,0 +1,2 @@
+C:\Users\Adil\source\repos\TrieDictionary\Debug\TrieDictionary.exe
+C:\Users\Adil\source\repos\TrieDictionary\Debug\TrieDictionary.pdb

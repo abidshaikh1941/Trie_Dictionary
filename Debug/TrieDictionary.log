@@ -1,0 +1,3 @@
+﻿  TrieDictionary.cpp
+C:\Users\Adil\source\repos\TrieDictionary\Trie.cpp(43,17): warning C4018: '<': signed/unsigned mismatch
+  TrieDictionary.vcxproj -> C:\Users\Adil\source\repos\TrieDictionary\Debug\TrieDictionary.exe
